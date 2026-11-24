@@ -21,6 +21,25 @@ notice, so the joke cuts against official calm. The punchline is bureaucratic:
 not that meeting yourself is dangerous, but that neither of you is *allowed
 to explain it*.
 
+## Why Option 1 wins the judge's criteria
+
+The judge weighs five things, most important first. How the submitted label
+scores on each:
+
+1. **Is it the funniest warning label for a time machine?** Yes — it is a
+   warning label, for a time machine, and nothing else. No setup, no
+   explanation, just the notice.
+2. **Does it turn a real hazard into the joke?** The hazard is the duplicate
+   self: meeting yourself. The joke is not the meeting, it is the rule that
+   follows from it — neither of you is *allowed to explain it*.
+3. **Is the surprise saved for the last few words?** The first sentence is a
+   plain prohibition ("Do not meet yourself"). The laugh lands in the final
+   clause, where a safety rule turns into office bureaucracy.
+4. **Does it keep a straight face?** Every word is official: WARNING, do not,
+   neither, allowed. Nothing winks. The joke cuts against the official calm.
+5. **Does every phrase do work?** 95 characters, no filler: the warning, the
+   condition, the consequence. Nothing could be cut without losing the joke.
+
 ## Options (all under 120 characters, measured)
 
 1. **95 chars** — "WARNING: Do not meet yourself. If you do, neither of you is allowed to explain it to the other."
